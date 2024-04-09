@@ -1,6 +1,6 @@
 ---
 title: "<span style='font-size:.8em; font-weight: 500;'>Welcome to</span><br><span style='font-size:1.3em; font-weight: 700;'>GISRUK 2024</span>"
-subtitle: "<br><span style='font-size:1.6em; font-weight: 500;'>9th -- 12th April 2024</span><br><span style='color:#525252; font-size:1.2em; font-weight: 500; font-family: Iosevka'>2024.gisruk.org @GISRUK </span>"
+subtitle: "<br><span style='font-size:1.6em; font-weight: 500;'>9th -- 12th April 2024</span><br><span style='color:#525252; font-size:1.2em; font-weight: 500; font-family: iosevka'>2024.gisruk.org @GISRUK </span>"
 format: 
    revealjs:
      transition: fade
@@ -8,7 +8,13 @@ format:
      css: theme/style.css
      footer: 'GISRUK 2024 | University of Leeds'
      mainfont: Jost
-     logo: "../../img/favicon/gisruk.png"
+     logo: "img/favicon/gisruk.png"
+     resources: 
+       - fonts/iosevka-regular.ttc
+       - fonts/iosevka-semibold.ttc
+       - fonts/iosevka-thin.ttc
+       - fonts/iosevka.ttc
+       
 ---
 
 

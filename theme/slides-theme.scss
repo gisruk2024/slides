@@ -49,6 +49,13 @@ $navbar-font-family: "Jost" !default;
 $toc-font-family: "Jost" !default;
 $footer-font-family: "Jost" !default;
 
+@font-face {
+  font-family: 'iosevka';
+  src: url('../../../../../Fonts/iosevka.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 // $font-size-base: 1.1rem !default; // Assumes the browser default, typically `16px`
 // $font-size-sm: $font-size-base * .875 !default;
