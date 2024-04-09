@@ -1,0 +1,197 @@
+---
+title: "<span style='font-size:.8em; font-weight: 500;'>Welcome to</span><br><span style='font-size:1.3em; font-weight: 700;'>GISRUK 2024</span>"
+subtitle: "<br><span style='font-size:1.6em; font-weight: 500;'>9th -- 12th April 2024</span><br><span style='color:#525252; font-size:1.2em; font-weight: 500; font-family: Iosevka'>2024.gisruk.org @GISRUK </span>"
+format: 
+   revealjs:
+     transition: fade
+     theme: theme/slides-theme.scss
+     css: theme/style.css
+     footer: 'GISRUK 2024 | University of Leeds'
+     mainfont: Jost
+     logo: "../../img/favicon/gisruk.png"
+---
+
+
+## GISRUK 2024
+
+### -- Local Organising Committee
+
+
+![](img/roger_beecham.jpeg){.absolute top=250 left=0 width="15%"}
+![](img/will_james.jpeg){.absolute top=250 left=160 width="15%"}
+![](img/fran_pontin.jpeg){.absolute top=250 left=350 width="15%"}
+![](img/rachel_oldroyd.jpeg){.absolute top=250 left=500 width="15%"}
+![](img/nick_hood.jpeg){.absolute top=250 left=650 width="15%"}
+![](img/kieran_suchak.jpeg){.absolute top=250 left=800 width="15%"}
+
+![](img/vikki_houlden.jpeg){.absolute top=450 left=350 width="15%"}
+
+![](img/arjan_gosal.jpeg){.absolute top=450 left=500 width="14.5%"}
+
+
+::: {.notes}
+
+
+:::
+
+---
+
+## GISRUK 2024
+
+### -- Info 
+
+::: {.columns}
+
+
+::: {.column width="70%"}
+
+![](img/website.png){fig-align="center"}
+:::
+
+
+::: {.column width="30%"}
+
+::: {style="font-family: Iosevka; font-size: 70%"}
+<br>
+https://2024.gisruk.org/
+
+:::
+
+:::
+
+:::
+
+::: {.notes}
+
+:::
+
+---
+
+## GISRUK 2024
+
+### -- Info 
+
+::: {.columns}
+
+
+::: {.column width="70%"}
+
+![](img/website.png){fig-align="center"}
+:::
+
+
+::: {.column width="30%"}
+
+::: {style="font-family: Iosevka; font-size: 70%"}
+<br>
+https://2024.gisruk.org/
+
+:::
+
+:::
+
+:::
+
+::: {.notes}
+
+Show programme.
+Two parallel tracks -- generally
+Links to full papers.
+
+Thu lunch -- poster session.
+Lunch and refreshments Merchant's Hall.
+
+First aiders are on-site as part of venue.
+Let us know -- LOC -- or Volunteers in green t-shirts if have any questions. 
+
+
+
+:::
+
+---
+
+## GISRUK 2024
+
+### -- Awards
+
+* GISRUK & OSGeo:UK GoFundGeo Award
+* CASA Best Spatial Analysis Paper
+* GISRUK Best Paper, Best PGR Paper, Best Poster
+
+### -- SI
+
+* Environment &Planning B Urban Data:Code, see `2024.gisruk.org/si`
+
+
+::: {.notes}
+
+:::
+
+---
+
+## GISRUK 2024
+
+### -- Socials
+
+![](img/event_buildings.png){.absolute top=200 left=0 width="75%"}
+
+
+::: {.notes}
+Also checkout pubs on website. 
+:::
+
+---
+
+## GISRUK 2024
+
+### -- Thanks to ...
+<br>
+
+... Sponsors
+
+... LOC
+
+... GISRUK Steering Group
+
+... Reviewers
+
+... Session chairs
+
+... Participants
+
+![](img/sponsors.png){.absolute top=250 left=500 width="50%"}
+
+
+---
+
+
+## GISRUK 2024
+
+### -- Welcome
+
+::: {.columns}
+
+
+::: {.column width="15%"}
+![](img/alan_haywood.jpg){.absolute top=225 left=20 width="10%"}
+:::
+
+::: {.column width="80%"}
+
+<br>
+**Professor Alan Haywood**<br>
+-- Interim Executive Faculty Dean<br>
+-- Professor of Palaeoclimate Modelling<br>
+-- Institute of Climate & Atmospheric Science <br>
+-- Earth Surface Science Institute<br>
+-- Palaeo@Leeds
+
+:::
+
+:::
+
+---
+
+
+
+
